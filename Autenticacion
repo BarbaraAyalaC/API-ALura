@@ -1,0 +1,16 @@
+
+---
+
+### **Instrucciones para usar el proyecto**
+
+1. **Instalar las dependencias:**
+   ```bash
+   pip install -r requirements.txt
+
+
+
+
+
+Ejecutar
+
+uvicorn app.main:app --reload
